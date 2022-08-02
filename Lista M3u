@@ -1,32 +1,32 @@
-#EXITM3U
 
 
-#EXTINF:-1,ECUAVISA 
+
+
 http://futboldirectotv.xyz:8080/live/josue2022/BNKYK/109478.m3u8
 
 
-#EXTINF:-1,ECUAVISA INTERNACIONAL
+
 http://futboldirectotv.xyz:8080/live/josue2022/BNKYK/24108.m3u8
 
-#EXTINF:-1,TELEAMAZONAS
+
 https://playback.akamaized.net/streams/1359588_9942377_lsi5bic3agqhtyysfo6_1/media/1359588_9942377_lsi5bic3agqhtyysfo6_1@1756000p.m3u8?dw=14400&ts=1659380400&hdnts=exp=1659553443~acl=/streams/1359588_9942377_lsi5bic3agqhtyysfo6_1/media*~hmac=820a463016aed057c84fe40a11b0b60e011ef23db45a6ab4de7b349335fe0cda
 
 
-#EXTINF:-1,RTS
+
 https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 
 
-#EXTINF:-1,ECUADOR TV
+
 https://streaming.ecuadortv.ec/hls/key-0a1dbc53-65b9-4207-a796-2ad2afff4666lfuQfxKbLr_mid/index.m3u8
 
-#EXTINF:-1,TC 
+
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9s4nOxxhS3LoPuCK8gFjAj1L0fjY_Y7NKktLsPhW9Qv)/dm/3/x7wijay/d/live-1.m3u8#cell=lnyc
 
-#EXTINF:-1,CANELA
+
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1842742330.m3u8
 
-#EXTINF:-1,RTU
+
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8/38861cba61c66739c1452c3a71e39852.ttf
 
-#EXTINF:-1,TELERAMA 
+
 https://envivo.telerama.ec/stream.m3u8
